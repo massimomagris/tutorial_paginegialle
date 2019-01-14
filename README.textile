@@ -1,0 +1,3 @@
+Esempio Utilizzo di ScraperWiki per recuperare dati aziende italiane
+
+Esample of using ScraperWiki to get public data
